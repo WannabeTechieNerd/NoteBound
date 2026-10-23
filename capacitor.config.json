@@ -1,0 +1,8 @@
+{
+  "appId": "com.notebound.app",
+  "appName": "Notebound",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

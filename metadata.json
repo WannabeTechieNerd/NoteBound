@@ -1,0 +1,7 @@
+{
+  "name": "Notebound - Evidence-Backed Study Companion",
+  "description": "An interactive, evidence-backed student tutoring companion powered by Gemma & Gemini. Features notes-grounded QA, verified quote highlighting, quizzes, Tap-to-Understand (Simpler, Example, Hinglish), real-time collaborative study dashboard, streaks, leaderboards, and push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
